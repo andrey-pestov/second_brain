@@ -1,5 +1,4 @@
 # 🚀 Инструкция по настройке Second Brain в Obsidian
-
 ## 📱 Установка на iPad
 
 1. **Скачайте Obsidian**
