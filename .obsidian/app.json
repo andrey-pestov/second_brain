@@ -1,0 +1,12 @@
+{
+  "defaultViewMode": "source",
+  "livePreview": true,
+  "readableLineLength": true,
+  "showFrontmatter": true,
+  "strictLineBreaks": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Assets",
+  "newFileLocation": "current",
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest"
+}
