@@ -11,14 +11,15 @@
             "id": "5589e5898c2f6d10",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Projects/_Example Project.md",
-                "mode": "source",
-                "source": false
+                "aFile": "SETUP.md",
+                "bFile": "SETUP.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "_Example Project"
+              "icon": "git-pull-request",
+              "title": "Diff: SETUP"
             }
           },
           {
@@ -193,6 +194,7 @@
   },
   "active": "5589e5898c2f6d10",
   "lastOpenFiles": [
+    "Projects/_Example Project.md",
     "Projects/Projects Dashboard.md",
     "Resources/_Example Resource.md",
     "SETUP.md",
@@ -201,7 +203,6 @@
     "Daily/2025-01-15.md",
     "Areas/Areas Dashboard.md",
     "Dashboard.md",
-    "Projects/_Example Project.md",
     "Table.base",
     "README.md",
     "Resources/Resources Dashboard.md",
