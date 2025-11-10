@@ -4,36 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "aab7be7316fe2674",
+        "id": "f48f755ff21e2933",
         "type": "tabs",
         "children": [
           {
-            "id": "5589e5898c2f6d10",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "aFile": "SETUP.md",
-                "bFile": "SETUP.md",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "git-pull-request",
-              "title": "Diff: SETUP"
-            }
-          },
-          {
-            "id": "f17e0bbca52cd021",
+            "id": "df08e836bf443b9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources.md",
+                "file": "Daily/2025-11-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resources"
+              "title": "2025-11-09"
+            }
+          },
+          {
+            "id": "0e3348c661805467",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2025-11-08.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-08"
             }
           }
         ]
@@ -192,33 +191,42 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5589e5898c2f6d10",
+  "active": "df08e836bf443b9e",
   "lastOpenFiles": [
-    "Projects/_Example Project.md",
+    "Daily/2025-11-08.md",
+    "Daily/2025-11-09.md",
+    "Daily/2025-11-10.md",
+    "Templates/<% tp.date.now(\"YYYY-MM-DD\")+1 %>.md",
+    "Templates/Daily Template.md",
+    "Templates/Area Template.md",
     "Projects/Projects Dashboard.md",
+    "Projects/_Example Project.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "tasks.base",
+    "1.md",
+    "Table.base",
+    "Daily/2025-01-15.md",
+    "Areas/R2D2.md",
+    "Projects/Подготовка к командировке.md",
+    "Areas.md",
+    "Templates/Project Template.md",
+    "Dashboard.md",
+    "Areas/_Example Area.md",
+    "Areas/r2d2.md",
+    "Resources.md",
     "Resources/_Example Resource.md",
     "SETUP.md",
-    "Resources.md",
-    "Areas/_Example Area.md",
-    "Daily/2025-01-15.md",
     "Areas/Areas Dashboard.md",
-    "Dashboard.md",
-    "Table.base",
     "README.md",
     "Resources/Resources Dashboard.md",
     "Resources",
     "Areas",
     "Assets",
-    "Templates/Area Template.md",
-    "Templates/Project Template.md",
-    "Templates/Daily Template.md",
     "Templates/Resource Template.md",
     "Templates",
     "Projects",
     "Archives/Resources",
-    "Archives/Archives Dashboard.md",
-    "Archives/Projects",
-    "Archives/Areas",
-    "Archives"
+    "Archives/Archives Dashboard.md"
   ]
 }

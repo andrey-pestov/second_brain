@@ -8,5 +8,6 @@
   "attachmentFolderPath": "Assets",
   "newFileLocation": "current",
   "useMarkdownLinks": false,
-  "newLinkFormat": "shortest"
+  "newLinkFormat": "shortest",
+  "promptDelete": false
 }
